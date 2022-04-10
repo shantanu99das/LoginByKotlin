@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kotlin/login/LoginByKotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12864583333333332" />
+        <entry key="..\:/Kotlin/login/LoginByKotlin/app/src/main/res/drawable/gradient_color_backgroud.xml" value="0.26205128205128203" />
+        <entry key="..\:/Kotlin/login/LoginByKotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12864583333333332" />
         <entry key="..\:/Kotlin/login/LoginByKotlin/app/src/main/res/layout/acitivity_splash.xml" value="0.12708333333333333" />
         <entry key="..\:/Kotlin/login/LoginByKotlin/app/src/main/res/layout/activity_intro.xml" value="0.25" />
         <entry key="..\:/Kotlin/login/LoginByKotlin/app/src/main/res/layout/activity_main.xml" value="0.25" />
