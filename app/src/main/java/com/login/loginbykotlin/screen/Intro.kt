@@ -1,13 +1,12 @@
-package com.login.loginbykotlin
+package com.login.loginbykotlin.screen
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.login.loginbykotlin.R
 
-class MainActivity : AppCompatActivity() {
+class Intro : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        //setContentView(R.layout.acitivity_splash)
+        setContentView(R.layout.activity_intro)
     }
 }

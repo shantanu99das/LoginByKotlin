@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LoginByKotlin</string>
+    <string name="LoginByKotlin">Hello User</string>
 </resources>
