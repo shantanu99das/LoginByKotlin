@@ -3,5 +3,7 @@
     <string name="LoginByKotlin">Hello User</string>
     <string name="Login">Login</string>
     <string name="SingUp">SingUp</string>
+    <string name="UserName">Username</string>
+    <string name="Password">Password</string>
 
 </resources>
